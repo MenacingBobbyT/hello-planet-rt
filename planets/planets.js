@@ -3,7 +3,10 @@ var solarSystem = {
 	_planets: [],
 	
 	addPlanet: function(name) {
-		this._planets.push(name);
+		if(this._planets.length == 0)
+			this._planets.push("First Planet " + name);
+		else 
+			this._planets.push(name);
 	},
 	getPlanetCount: function() {
 		return this._planets.length;
