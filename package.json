@@ -1,0 +1,26 @@
+{
+  "name": "hello-planet-rt",
+  "version": "1.0.0",
+  "description": "A listing of planets",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testSolarSystem.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenacingBobbyT/hello-planet-rt.git"
+  },
+  "keywords": [
+    "solar",
+    "planet"
+  ],
+  "author": "Robert Twyford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MenacingBobbyT/hello-planet-rt/issues"
+  },
+  "homepage": "https://github.com/MenacingBobbyT/hello-planet-rt#readme"
+}
