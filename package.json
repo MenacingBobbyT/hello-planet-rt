@@ -1,6 +1,6 @@
 {
   "name": "hello-planet-rt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A listing of planets",
   "main": "index.js",
   "directories": {
